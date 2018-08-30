@@ -22,3 +22,6 @@ We will:
     Evaluate our model on the test set
     Run the model on your own text!
 
+
+
+![lang](https://user-images.githubusercontent.com/29462447/44868408-5d9f3c00-aca8-11e8-83ab-356496670bfd.png)
